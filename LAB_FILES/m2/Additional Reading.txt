@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/powershell/scripting/samples/redirecting-data-with-out---cmdlets?view=powershell-7
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/out-file?view=powershell-7
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/out-gridview?view=powershell-7
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/out-printer?view=powershell-7
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/out-string?view=powershell-7
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/out-null?view=powershell-7
